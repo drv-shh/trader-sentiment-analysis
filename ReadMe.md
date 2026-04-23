@@ -48,7 +48,6 @@ jupyter notebook
 
 ## Output
 After running:
-* Charts will be saved in `Outputs/`
 * Key results will be printed in the notebook
 
 ---
